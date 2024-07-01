@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Alphonse Egidius Okurut"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:  
+      - icon: github
+        href: https://github.com/okurutalphonsee
+      - icon: twitter
+        href: https://linkedin.com/okurutalphonsee
+format:
+  html:
+    theme: lux
+    css: styles.css
+
+editor: visual
+

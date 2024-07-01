@@ -1,0 +1,15 @@
+---
+title: "Alphonse Egidius Okurut"
+image: alphonseeokurut.png
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/okurutalphonsee
+    - icon: github
+      text: Github
+      href: https://github.com/okurutalphonsee
+---
+
+Alphonse Egidius Okurut is a Senior Statistician working at the Uganda Bureau of Statistics (UBOS), with a strong research background and vast experience in the statistical production value chain. With a passion for data and analytics, he strives to contribute to evidence-based decision-making and research. Okurut's expertise lies in monitoring, evaluation, and data science, ensuring that projects and initiatives are effectively evaluated and implemented. He is committed to utilizing his skills to make a positive impact in his field and seeks to connect with like-minded professionals
