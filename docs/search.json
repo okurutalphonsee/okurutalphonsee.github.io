@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Porfolio",
+    "section": "",
+    "text": "WOrkshop on Developing Dashboards using Quarto and R under GRAPHS\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nAlphonse Egidius Okurut\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nAlphonse Egidius Okurut\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alphonse Egidius Okurut",
+    "section": "",
+    "text": "Alphonse Egidius Okurut is a Senior Statistician working at the Uganda Bureau of Statistics (UBOS), with a strong research background and vast experience in the statistical production value chain. With a passion for data and analytics, he strives to contribute to evidence-based decision-making and research. Okurut’s expertise lies in monitoring, evaluation, and data science, ensuring that projects and initiatives are effectively evaluated and implemented. He is committed to utilizing his skills to make a positive impact in his field and seeks to connect with like-minded professionals"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "my_website",
+    "section": "",
+    "text": "WOrkshop on Developing Dashboards using Quarto and R under GRAPHS\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nR\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nAlphonse Egidius Okurut\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nAlphonse Egidius Okurut\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "WOrkshop on Developing Dashboards using Quarto and R under GRAPHS",
+    "section": "",
+    "text": "This was a Project on the design of Dashboards using quarto and Under on week 10 of the GRAPHS- R Master Class Course using the Gapminder - China Influenza 2013 dataset.\nYou can find the Project here"
+  }
+]
