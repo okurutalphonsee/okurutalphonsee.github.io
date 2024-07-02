@@ -8,4 +8,4 @@ image: "image.jpg"
 
 This was a Project on the design of Dashboards using quarto and Under on week 10 of the GRAPHS- R Master Class Course using the Gapminder - China Influenza 2013 dataset.
 
-You can find the Project [here](https://okurutalphonsee.github.io/influenza_2013_dash/)
+You can find the Project [here](https://okurutalphonsee.github.io/influenza_2013_dash/){target="_blank"}
